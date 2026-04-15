@@ -4,3 +4,5 @@ streamlit
 openai
 youtube-transcript-api
 faiss-cpu
+langchain-community
+langchain-text-splitters 
