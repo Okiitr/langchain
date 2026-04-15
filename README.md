@@ -24,6 +24,27 @@ AI Generates cool pet names for you!
     streamlit run main-pet-app.py 
 ```
 
+# YouTube Assistant
+
+Ask questions about any YouTube video using video url to this LLM powered assistant.
+
+![YouTube Assistant App](/images/youtube-assistant.png)
+
+## Running it locally
+
+Install the required packages:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+streamlit run main.py
+```
+
+
+
+
+
 ## Uses
 
 - [LangChain](https://python.langchain.com/docs/get_started/introduction.html)
