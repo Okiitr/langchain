@@ -4,6 +4,7 @@ AI Generates cool baby names genertor based on the zodiac sign for you!
 
 ![Beby Name Web app demo](/images/baby_name_generator.png)
 
+## Running it locally
 ```bash
     python -m venv .venv
     source .venv/bin/activate
@@ -17,6 +18,7 @@ AI Generates cool pet names for you!
 
 ![Pets Name Web app demo](/images/pet_name_demo.png)
 
+## Running it locally
 ```bash
     python -m venv .venv
     source .venv/bin/activate
@@ -31,9 +33,6 @@ Ask questions about any YouTube video using video url to this LLM powered assist
 ![YouTube Assistant App](/images/youtube-assistant.png)
 
 ## Running it locally
-
-Install the required packages:
-
 ```bash
 python -m venv .venv
 source .venv/bin/activate
